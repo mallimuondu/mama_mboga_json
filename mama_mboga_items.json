@@ -1,0 +1,39 @@
+
+{
+ "products": [
+ {
+ "item": "carrot",
+ "quantity":"per 1 kg",
+ "price":50
+ },
+ {
+ "item":"tomato",
+ "quantity":"per 1 kg",
+ "price":80 
+ },
+ {
+ "item":"pilipili hoho",
+ "quantity":"per 1 kg",
+ "price":250 
+ },
+ {
+ "item":"ground nut",
+ "quantity":"per 1 kg",
+ "price":150 
+ },
+ {
+ "item":"kale",
+ "quantity":"per 1 band",
+ "price":10 
+ },
+ {
+ "item":"egg",
+ "quantity":"per 1 egg",
+ "price":10 
+ }
+
+
+ ]
+ 
+
+}
